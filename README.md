@@ -4,17 +4,6 @@ This project develops a **machine learning model** to predict smartphone addicti
 
 ---
 
-## 📖 Table of Contents
-- [Introduction](#introduction)  
-- [Dataset](#dataset)  
-- [Methodology](#methodology)  
-- [Models Used](#models-used)  
-- [Results](#results)   
-- [Future Scope](#future-scope)  
-- [Contributors](#contributors)  
-
----
-
 ## 🔍 Introduction
 Smartphones have become an integral part of daily life, but excessive use can lead to **addiction**, affecting mental health, productivity, and social interactions. This project applies **machine learning techniques** to predict the likelihood of smartphone addiction, providing insights that can be useful for awareness, prevention, and digital well-being.  
 

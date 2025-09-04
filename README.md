@@ -54,5 +54,6 @@ Smartphones have become an integral part of daily life, but excessive use can le
 
 ## 👨‍💻 Contributors
  - Mounesh Gowdan – Developer & Researcher
+ - Mohamed Zameer Z - Developer &Research
 
 
